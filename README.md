@@ -1,4 +1,4 @@
-﻿# Musa DİVARCI
+# Musa DİVARCI
 
 <p align="left">
   <strong>Senior Software Developer · .NET / C# Specialist · Technology Leader</strong><br>
@@ -6,10 +6,10 @@
 </p>
 
 <p align="left">
-  <a href="https://mdv1.vercel.app/"><img src="https://img.shields.io/badge/Website-mdv1.vercel.app-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.musadivarci.com.tr/"><img src="https://img.shields.io/badge/Website-musadivarci.com.tr-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/musa-divarci-9280515a"><img src="https://img.shields.io/badge/LinkedIn-Musa_Divarc%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@musadivarci19"><img src="https://img.shields.io/badge/Medium-@musadivarci19-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://mdv1.vercel.app/professional-profile.html"><img src="https://img.shields.io/badge/Verified_Profile-Schema.org-22c55e?style=for-the-badge&logo=json&logoColor=white" alt="Verified Profile" /></a>
+  <a href="https://www.musadivarci.com.tr/professional-profile.html"><img src="https://img.shields.io/badge/Verified_Profile-Schema.org-22c55e?style=for-the-badge&logo=json&logoColor=white" alt="Verified Profile" /></a>
 </p>
 
 ---
@@ -76,8 +76,8 @@ Musa DİVARCI is a seasoned **Software Developer and Technology Professional** w
 
 ## 🌐 Verified Identity & Links
 
-- 🌍 **Canonical Site:** [https://mdv1.vercel.app/](https://mdv1.vercel.app/)
-- 📄 **Professional Profile:** [https://mdv1.vercel.app/professional-profile.html](https://mdv1.vercel.app/professional-profile.html)
+- 🌍 **Canonical Site:** [https://www.musadivarci.com.tr/](https://www.musadivarci.com.tr/)
+- 📄 **Professional Profile:** [https://www.musadivarci.com.tr/professional-profile.html](https://www.musadivarci.com.tr/professional-profile.html)
 - 💼 **LinkedIn:** [linkedin.com/in/musa-divarci-9280515a](https://www.linkedin.com/in/musa-divarci-9280515a)
 - ✍️ **Medium:** [medium.com/@musadivarci19](https://medium.com/@musadivarci19)
 - 📜 **Entity Verification:** Musa DİVARCI (Musa Divarcı, Musa Divarci)

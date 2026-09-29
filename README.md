@@ -9,6 +9,7 @@
   <a href="https://www.musadivarci.com.tr/"><img src="https://img.shields.io/badge/Website-musadivarci.com.tr-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/musa-divarci-9280515a"><img src="https://img.shields.io/badge/LinkedIn-Musa_Divarc%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@musadivarci19"><img src="https://img.shields.io/badge/Medium-@musadivarci19-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://gravatar.com/joyous9a1856f49c"><img src="https://img.shields.io/badge/Gravatar-Musa_Divarc%C4%B1-1e8cbe?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" /></a>
   <a href="https://www.musadivarci.com.tr/professional-profile.html"><img src="https://img.shields.io/badge/Verified_Profile-Schema.org-22c55e?style=for-the-badge&logo=json&logoColor=white" alt="Verified Profile" /></a>
 </p>
 
@@ -80,4 +81,5 @@ Musa DİVARCI is a seasoned **Software Developer and Technology Professional** w
 - 📄 **Professional Profile:** [https://www.musadivarci.com.tr/professional-profile.html](https://www.musadivarci.com.tr/professional-profile.html)
 - 💼 **LinkedIn:** [linkedin.com/in/musa-divarci-9280515a](https://www.linkedin.com/in/musa-divarci-9280515a)
 - ✍️ **Medium:** [medium.com/@musadivarci19](https://medium.com/@musadivarci19)
+- 👤 **Gravatar:** [gravatar.com/joyous9a1856f49c](https://gravatar.com/joyous9a1856f49c)
 - 📜 **Entity Verification:** Musa DİVARCI (Musa Divarcı, Musa Divarci)

@@ -33,23 +33,52 @@ Musa DİVARCI is a seasoned **Software Developer and Technology Professional** w
     <td width="33%" valign="top">
       <h3>🏛️ <a href="https://github.com/musadivarci/PlexV1">Plex</a></h3>
       <p><strong>Distributed Operations & Audit Platform</strong></p>
-      <p>Architecture-focused .NET / C# backend reference system utilizing ASP.NET Core, Clean Architecture, background workers, and audit-driven domain models.</p>
-      <p><code>.NET 8</code> <code>C#</code> <code>Clean Architecture</code> <code>ASP.NET Core</code></p>
+      <p>Architecture-focused .NET / C# backend reference system utilizing ASP.NET Core, Clean Architecture, SignalR WebSockets, and audit-driven domain models.</p>
+      <p><code>.NET 10</code> <code>C# 14</code> <code>Clean Architecture</code> <code>SignalR</code></p>
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ <a href="https://github.com/musadivarci/aegis">Aegis</a></h3>
-      <p><strong>Knowledge & Workflow Automation Engine</strong></p>
-      <p>Information architecture, structured data workflows, automation pipelines, and developer tooling built with TypeScript and Python.</p>
-      <p><code>TypeScript</code> <code>Python</code> <code>Data Workflows</code> <code>Automation</code></p>
+      <p><strong>Personal AI Knowledge & Decision Engine</strong></p>
+      <p>Persistent memory architecture, structured data workflows, pgvector semantic search, and developer tooling built with TypeScript and Python.</p>
+      <p><code>TypeScript</code> <code>Python</code> <code>RAG</code> <code>pgvector</code></p>
     </td>
+    <td width="33%" valign="top">
+      <h3>🤖 <a href="https://github.com/musadivarci/AI-Nexus-API">AI Nexus API</a></h3>
+      <p><strong>Multi-Provider Enterprise AI Gateway</strong></p>
+      <p>Clean architecture AI integration gateway with ASP.NET Core, supporting OpenAI, Google Gemini, Anthropic Claude, and Azure OpenAI.</p>
+      <p><code>ASP.NET Core</code> <code>OpenAI</code> <code>Gemini</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>🧠 <a href="https://github.com/musadivarci/wondr">wondR</a></h3>
       <p><strong>Personal Learning & Knowledge OS</strong></p>
       <p>Modern knowledge retention and structured learning platform developed with React, TypeScript, and Supabase.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Modern Web</code></p>
     </td>
+    <td width="33%" valign="top">
+      <h3>🏋️‍♂️ <a href="https://github.com/musadivarci/workout-tracker">Workout Tracker</a></h3>
+      <p><strong>Mobile-First Personal Training OS</strong></p>
+      <p>Zero-friction progressive overload and session logger built with Next.js 15, React 19, Supabase SSR, and PostgreSQL.</p>
+      <p><code>Next.js 15</code> <code>React 19</code> <code>Supabase</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎲 <a href="https://github.com/musadivarci/Kura">Kura</a></h3>
+      <p><strong>Classroom Performance Evaluation System</strong></p>
+      <p>Fast student lottery wheel and continuous classroom assessment engine powered by Node.js, SQLite (WAL mode), and Web Audio API.</p>
+      <p><code>Node.js</code> <code>SQLite WAL</code> <code>TailwindCSS</code> <code>Web Audio</code></p>
+    </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musadivarci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Musa Divarcı's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musadivarci&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -57,13 +86,15 @@ Musa DİVARCI is a seasoned **Software Developer and Technology Professional** w
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 

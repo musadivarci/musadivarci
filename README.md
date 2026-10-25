@@ -22,7 +22,7 @@ Musa DİVARCI is a seasoned **Software Developer and Technology Professional** w
 - 🚀 **Core Software Development:** .NET 8 / C#, ASP.NET Core, Clean Architecture, Domain-Driven Design (DDD), Background Worker Services, RESTful APIs, SQL Server.
 - 🛠️ **Developer Tooling & Ecosystem:** Python (data processing, scripting & automation), TypeScript, React, Modern Web Technologies.
 - 🌐 **Systems & Infrastructure:** System Engineering, Network Architecture (Cisco CCNP curriculum), Enterprise IT Operations.
-- 🏛️ **Leadership & Public Sector:** Ministry of National Education (MEB) IT Coordination, Enterprise IT Strategy, Technical Project Coordination.
+- 🏛️ **Leadership & Public Sector:** Ministry of National Education (MEB) Central Organization — General Directorate of Educational Technologies (YEĞİTEK) IT Coordination, Enterprise IT Strategy, Technical Project Coordination.
 
 ---
 
@@ -71,7 +71,7 @@ Musa DİVARCI is a seasoned **Software Developer and Technology Professional** w
 - **Databases & Data Storage:** Microsoft SQL Server, PostgreSQL, Relational Schema Design, Query Optimization, ORM (Entity Framework Core / Dapper).
 - **Frontend & Web:** TypeScript, JavaScript (ES6+), React, Semantic HTML5, CSS3.
 - **Scripting & Utilities:** Python, PowerShell, Bash, Data Processing & ETL scripts.
-- **Enterprise & IT Leadership:** Technical Project Management, Ministry of National Education (MEB) IT Coordination, Network Architecture, Enterprise Systems Security & Management.
+- **Enterprise & IT Leadership:** Technical Project Management, Ministry of National Education (MEB) Central Organization — General Directorate of Educational Technologies (YEĞİTEK) IT Coordination, Network Architecture, Enterprise Systems Security & Management.
 
 ---
 
